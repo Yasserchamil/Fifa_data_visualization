@@ -1,7 +1,7 @@
 # ⚽ FIFA Data Visualization Project  
 
 **Author:** [Yasser Chamil](https://github.com/Yasserchamil)  
-**Notebook:** [Open in Google Colab](https://colab.research.google.com/github/Yasserchamil/Fifa_data_visualization/blob/main/fifa_Data_Visualization_CLEAN.ipynb)  
+**Notebook:** [Open in Google Colab](https://colab.research.google.com/github/Yasserchamil/Fifa_data_visualization/blob/main/Data/fifa_Data_Visualization_CLEAN.ipynb)  
 
 ---
 
